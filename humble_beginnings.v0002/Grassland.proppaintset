@@ -1,0 +1,36 @@
+{
+    "PaintProps": [
+        {
+            "Blueprint": "env/Evergreen/Props/Logs/Log02_prop.bp",
+            "ScaleMin": 1.0,
+            "ScaleMax": 1.0,
+            "RotationMin": 0,
+            "RotationMax": 360,
+            "Chance": 40
+        },
+        {
+            "Blueprint": "env/Evergreen/Props/Trees/DC01_s3_prop.bp",
+            "ScaleMin": 1.0,
+            "ScaleMax": 1.0,
+            "RotationMin": 0,
+            "RotationMax": 360,
+            "Chance": 40
+        },
+        {
+            "Blueprint": "env/Evergreen/Props/Trees/Brch01_s3_prop.bp",
+            "ScaleMin": 1.0,
+            "ScaleMax": 1.0,
+            "RotationMin": 0,
+            "RotationMax": 360,
+            "Chance": 40
+        },
+        {
+            "Blueprint": "env/Evergreen/Props/Trees/Brch01_prop.bp",
+            "ScaleMin": 1.0,
+            "ScaleMax": 1.0,
+            "RotationMin": 0,
+            "RotationMax": 360,
+            "Chance": 40
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+grass_albedo.dds: 	https://www.textures.com/download/PBR0426/137222
+grass_normal.dds: 	https://www.textures.com/download/PBR0426/137222
+rock_albedo.dds: 	https://www.textures.com/download/PBR0157/133192
+rock_normals.dds: 	https://www.textures.com/download/PBR0157/133192
+rock_specular.dds: 	https://www.textures.com/download/PBR0157/133192
+dirt_albedo.dds: 	https://www.textures.com/download/3DScans0613/138055
+sand_albedo.dds: 	https://www.textures.com/download/3DScans0014/126018
+sand_normals.dds: 	https://www.textures.com/download/3DScans0014/126018
+sand_specular.dds: 	https://www.textures.com/download/3DScans0014/126018
