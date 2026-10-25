@@ -1,9 +1,9 @@
 version = 3 -- Lua Version. Dont touch this
 ScenarioInfo = {
     name = "Lava_Bridge",
-    description = "The floor is lava (and the air too). Everything near lava gets heat damage every 5 seconds.",
+    description = "The floor is lava (and the air too). Everything above lava gets heat damage every 5 seconds.",
     preview = '',
-    map_version = 6,
+    map_version = 7,
     type = 'skirmish',
     starts = true,
     size = {2048, 2048},

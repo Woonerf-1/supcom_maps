@@ -1,9 +1,9 @@
 version = 3 -- Lua Version. Dont touch this
 ScenarioInfo = {
     name = "Minas",
-    description = "Those Of You Lucky Enough To Still Have Their Lives, Take Them With You! However, Leave The Limbs You’ve Lost! They Belong To Me, Now!\n\nThe Bride, 2003",
+    description = "Those Of You Lucky Enough To Still Have Their Lives, Take Them With You! However, Leave The Limbs You???ve Lost! They Belong To Me, Now!\r\nThe Bride, 2003",
     preview = '',
-    map_version = 10,
+    map_version = 12,
     type = 'skirmish',
     starts = true,
     size = {1024, 1024},
@@ -11,7 +11,7 @@ ScenarioInfo = {
     map = '/maps/Minas/Minas.scmap',
     save = '/maps/Minas/Minas_save.lua',
     script = '/maps/Minas/Minas_script.lua',
-    norushradius = 40,
+    norushradius = 60,
     Configurations = {
         ['standard'] = {
             teams = {
